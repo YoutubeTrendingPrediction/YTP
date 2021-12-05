@@ -12,7 +12,7 @@
 
 ## Top Category in past 30 days
 [FullWidth]
-[div style:`{width: '100%'}`]
+[div className: 'tableau_visulization']
 [TableauEmbed link:"https://public.tableau.com/shared/NGHNMDG9P?:display_count=n&:origin=viz_share_link" width:"850" height:"850"/]
 [/div]
 [/FullWidth]
@@ -20,7 +20,7 @@
 
 ## Category Changed in past 30 days
 [FullWidth]
-[div style:`{width: '100%'}`]
+[div className: 'tableau_visulization']
 [TableauEmbed link:"https://public.tableau.com/views/TrendingCategoryChangeinpast30days/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link" width:"1050" height:"850"/]
 [/div]
 [/FullWidth]
@@ -28,7 +28,7 @@
 
 ## Top 20 Tags
 [FullWidth]
-[div style:`{width: '100%'}`]
+[div className: 'tableau_visulization']
 [TableauEmbed link:"https://public.tableau.com/views/Top_20_tags/Top_20_Tags?:language=en-US&:display_count=n&:origin=viz_share_link" width:"820" height:"850"/]
 [/div]
 [/FullWidth]

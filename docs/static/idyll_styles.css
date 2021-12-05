@@ -1279,10 +1279,12 @@ img {
   font-family: 'Raleway', sans-serif;
 }
 
-.fullWidth {
-  margin: 0;
+.tableau_visulization {
+  margin-right: 25%;
+  margin-left: 25%;
+  margin-top: 0;
+  margin-bottom: 0;
 }
-
 
 @media all and (max-width: 1000px) {
   .d3-component svg {
