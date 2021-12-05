@@ -1,0 +1,53 @@
+[meta title:"Youtube Trending Prediction"/]
+
+[Header
+  fullWidth:true
+  title:"Youtube Trending Prediction"
+  subtitle:"CSE 583 Final Project"
+  author:"BingWen Hu, Dau Cheng, Ray Wang, Xinrang Wang"
+  date:"Dec, 4, 2021 (Latest Update)"
+  background:"#33333f"
+  color:"#ffffff"
+   /]
+
+## Top Category in past 30 days
+[FullWidth]
+[div style:`{width: '100%'}`]
+[TableauEmbed link:"https://public.tableau.com/shared/NGHNMDG9P?:display_count=n&:origin=viz_share_link" width:"850" height:"850"/]
+[/div]
+[/FullWidth]
+
+
+## Category Changed in past 30 days
+[FullWidth]
+[div style:`{width: '100%'}`]
+[TableauEmbed link:"https://public.tableau.com/views/TrendingCategoryChangeinpast30days/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link" width:"1050" height:"850"/]
+[/div]
+[/FullWidth]
+
+
+## Top 20 Tags
+[FullWidth]
+[div style:`{width: '100%'}`]
+[TableauEmbed link:"https://public.tableau.com/views/Top_20_tags/Top_20_Tags?:language=en-US&:display_count=n&:origin=viz_share_link" width:"820" height:"850"/]
+[/div]
+[/FullWidth]
+
+#### Data Sources
+      Youtube Trending Video Dataset: https://www.kaggle.com/rsrishav/youtube-trending-video-dataset/<br>
+
+      Youtube searching Google Trends: https://trends.google.com/trends/explore?gprop=youtube/
+
+#### Special thanks to professor David Beck and teaching assistant Anant Mittal.
+
+#### About Us
+      Our names are BingWen Hu, Dau Cheng, Ray Wang and Xinrang Wang.
+
+      This project was created for the course CSE583: Software Development for Data Scientists, at the Paul G. Allen School of Computer Science & Engineering within the University of Washington.
+
+
+#### Acknowledgements
+      This template was adapted from the initial Scrollytelling template for Idyll.
+
+
+
