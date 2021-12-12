@@ -4,24 +4,24 @@
   fullWidth:true
   title:"Youtube Trending Prediction"
   subtitle:"CSE 583 Final Project"
-  author:"BingWen Hu, Dau Cheng, Ray Wang, Xinrang Wang"
+  author:"BingWen Hu, Dau Cheng, Ray Wang, Xinran Wang"
   date:"Dec, 4, 2021 (Latest Update)"
   background:"#33333f"
   color:"#ffffff"
    /]
 
-## Top Category in past 30 days
+## Top Category in past year
 [FullWidth]
 [div className: 'tableau_visulization']
-[TableauEmbed link:"https://public.tableau.com/shared/NGHNMDG9P?:display_count=n&:origin=viz_share_link" width:"850" height:"850"/]
+[TableauEmbed link:"https://public.tableau.com/views/TopCategoryYear/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link" width:"1000" height:"800"/]
 [/div]
 [/FullWidth]
 
 
 ## Category Changed in past 30 days
 [FullWidth]
-[div className: 'tableau_visulization']
-[TableauEmbed link:"https://public.tableau.com/views/TrendingCategoryChangeinpast30days/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link" width:"1050" height:"850"/]
+[div className: 'tableau_visulization_large']
+[TableauEmbed link:"https://public.tableau.com/views/Prediction_16393453339650/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link" width:"1400" height:"800"/]
 [/div]
 [/FullWidth]
 
@@ -29,7 +29,7 @@
 ## Top 20 Tags
 [FullWidth]
 [div className: 'tableau_visulization']
-[TableauEmbed link:"https://public.tableau.com/views/Top_20_tags/Top_20_Tags?:language=en-US&:display_count=n&:origin=viz_share_link" width:"820" height:"850"/]
+[TableauEmbed link:"https://public.tableau.com/views/Top_20_tags/Top_20_Tags?:language=en-US&:display_count=n&:origin=viz_share_link" width:"1000" height:"850"/]
 [/div]
 [/FullWidth]
 
