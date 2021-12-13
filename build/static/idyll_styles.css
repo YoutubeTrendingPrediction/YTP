@@ -1146,8 +1146,18 @@ hr {
   font-family: 'Raleway', sans-serif;
 }
 
-.fullWidth {
-  margin: 0;
+.tableau_visulization {
+  margin-right: 20%;
+  margin-left: 20%;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.tableau_visulization_large {
+  margin-right: 15%;
+  margin-left: 15%;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 
